@@ -41,8 +41,8 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="label" destination="FFz-iE-hys" id="6vT-yO-0a7"/>
-                                            <outlet property="restaurantimage" destination="NAa-cy-Spm" id="hh7-S3-MMU"/>
+                                            <outlet property="label" destination="FFz-iE-hys" id="gB5-aL-V2Z"/>
+                                            <outlet property="restaurantimage" destination="NAa-cy-Spm" id="TRH-7i-dKJ"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
@@ -57,7 +57,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4" y="51"/>
+            <point key="canvasLocation" x="-400" y="44"/>
         </scene>
     </scenes>
 </document>
